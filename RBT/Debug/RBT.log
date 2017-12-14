@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\github\rbt\rbt\main.cpp(24): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  RBT.vcxproj -> C:\GitHub\RBT\Debug\RBT.exe
+  RBT.vcxproj -> C:\GitHub\RBT\Debug\RBT.pdb (Partial PDB)
